@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sahani-12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahani-12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Sahani-12/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sahani-12/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sahani-12/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sahani-12/LeetCode/tree/master/0169-majority-element) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sahani-12/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sahani-12/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Sahani-12/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sahani-12/LeetCode/tree/master/0191-number-of-1-bits) |
