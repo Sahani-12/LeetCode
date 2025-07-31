@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/Sahani-12/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Sahani-12/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1677-matrix-diagonal-sum](https://github.com/Sahani-12/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sahani-12/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Sahani-12/LeetCode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Sahani-12/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
