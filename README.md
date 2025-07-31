@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Sahani-12/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sahani-12/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Sahani-12/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Sahani-12/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahani-12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sahani-12/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sahani-12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sahani-12/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Sahani-12/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahani-12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Sahani-12/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sahani-12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Sahani-12/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Sahani-12/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sahani-12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Sahani-12/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sahani-12/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahani-12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -110,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Sahani-12/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sahani-12/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String Matching
@@ -120,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sahani-12/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sahani-12/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
