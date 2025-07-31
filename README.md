@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahani-12/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Sahani-12/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sahani-12/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Sahani-12/LeetCode/tree/master/0075-sort-colors) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahani-12/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Sahani-12/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sahani-12/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sahani-12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0088-merge-sorted-array) |
