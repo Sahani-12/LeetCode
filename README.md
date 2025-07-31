@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Sahani-12/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sahani-12/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Sahani-12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Sahani-12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sahani-12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Sahani-12/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Sahani-12/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sahani-12/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sahani-12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sahani-12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahani-12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sahani-12/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahani-12/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahani-12/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Sahani-12/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Prefix Sum
 |  |
@@ -160,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Sahani-12/LeetCode/tree/master/0898-transpose-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sahani-12/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
