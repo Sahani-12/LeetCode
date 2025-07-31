@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sahani-12/LeetCode/tree/master/0012-integer-to-roman) |
+| [0742-to-lower-case](https://github.com/Sahani-12/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Sahani-12/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sahani-12/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahani-12/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
