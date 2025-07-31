@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Sahani-12/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sahani-12/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Sahani-12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sahani-12/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Sahani-12/LeetCode/tree/master/0137-single-number-ii) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sahani-12/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Sahani-12/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Sahani-12/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahani-12/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahani-12/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
