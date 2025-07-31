@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sahani-12/LeetCode/tree/master/0012-integer-to-roman) |
+| [0812-rotate-string](https://github.com/Sahani-12/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sahani-12/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sahani-12/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/Sahani-12/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -110,4 +111,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahani-12/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sahani-12/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sahani-12/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
